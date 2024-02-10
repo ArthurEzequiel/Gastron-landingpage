@@ -9697,6 +9697,10 @@ fieldset:disabled .btn {
   user-select: auto !important;
 }
 
+.pointer{ 
+  cursor: pointer;
+}
+
 .user-select-none {
   -webkit-user-select: none !important;
   -moz-user-select: none !important;
